@@ -3,13 +3,10 @@
 
 ---
 ## Customer Churn Analysis
-
-![Customer Churn](customer%20churn.png)
+![Customer Churn](images/customer%20churn.png)
 
 ## SHAP Feature Importance
-
-![SHAP Values](shap%20values.png)
----
+![SHAP Values](images/shap%20values.png)
 ---
 
 ## 📌 Project Overview
