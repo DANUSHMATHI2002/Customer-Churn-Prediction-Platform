@@ -2,6 +2,15 @@
 ### End-to-End Production ML System | XGBoost · LightGBM · FastAPI · SHAP · MLflow · Docker
 
 ---
+## Customer Churn Analysis
+
+![Customer Churn](customer%20churn.png)
+
+## SHAP Feature Importance
+
+![SHAP Values](shap%20values.png)
+---
+---
 
 ## 📌 Project Overview
 
