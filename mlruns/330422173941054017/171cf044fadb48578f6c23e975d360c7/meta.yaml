@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danus/OneDrive/Desktop/churn-prediction/mlruns/330422173941054017/171cf044fadb48578f6c23e975d360c7/artifacts
+end_time: 1780926869888
+entry_point_name: ''
+experiment_id: '330422173941054017'
+lifecycle_stage: active
+run_id: 171cf044fadb48578f6c23e975d360c7
+run_name: xgboost
+run_uuid: 171cf044fadb48578f6c23e975d360c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780926866372
+status: 3
+tags: []
+user_id: danus

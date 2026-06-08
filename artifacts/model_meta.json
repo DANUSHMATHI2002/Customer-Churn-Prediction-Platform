@@ -1,0 +1,4 @@
+{
+  "model": "xgboost",
+  "test_roc_auc": 0.8403678731044459
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danus/OneDrive/Desktop/churn-prediction/mlruns/330422173941054017/a25cb17d19394b2d9e50501fa7a7e243/artifacts
+end_time: 1780926872679
+entry_point_name: ''
+experiment_id: '330422173941054017'
+lifecycle_stage: active
+run_id: a25cb17d19394b2d9e50501fa7a7e243
+run_name: lightgbm
+run_uuid: a25cb17d19394b2d9e50501fa7a7e243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780926869897
+status: 3
+tags: []
+user_id: danus
